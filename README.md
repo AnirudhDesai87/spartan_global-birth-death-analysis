@@ -3,3 +3,5 @@ The user interface for the user is as above where the user can see the birth and
 
 Website 
 https://global-birth-death-trend-rate.netlify.app
+
+ 
