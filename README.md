@@ -15,7 +15,7 @@ Analyze and visualize trends in global birth and death rates over decades
 
 # Team members
 
-Anirudh  
+Anirudh Desai
 
 
 # overview
