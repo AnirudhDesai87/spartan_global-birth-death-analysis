@@ -15,10 +15,8 @@ Analyze and visualize trends in global birth and death rates over decades
 
 # Team members
 
-Anirudh Desai (ku2407u015),
-shivam bhanderi (ku2407u030),
-bhavik Halai (ku2407u031),
-neel patel (ku2407u146)
+Anirudh  
+
 
 # overview
 
